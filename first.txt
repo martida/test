@@ -1,1 +1,3 @@
-This is my first test flie to test Git.  It's my first commit.
+This is my first test file to test Git.  It's my first commit.
+
+Now I've gone and corrected the misspelling of "file."
